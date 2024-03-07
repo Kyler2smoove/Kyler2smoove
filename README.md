@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
-  - [Network Congifuration Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Congifuration Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
 
 
 <h2>Certifications</h2>
@@ -22,7 +22,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working on my CompTIA Network+ Certification...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
