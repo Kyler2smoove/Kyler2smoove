@@ -3,8 +3,8 @@
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
   - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
-  - [Network Automation Homelab](https://github.com/Kyler2smoove/Network-Automation-Project)
-  - [Network Ip Addressing](https://github.com/Kyler2smoove/IP-Addressing-a-Network)
+  - [Network Automation Project](https://github.com/Kyler2smoove/Network-Automation-Project)
+  - [Network IP Addressing Configuration](https://github.com/Kyler2smoove/IP-Addressing-a-Network)
 
 
 <h2>Certifications</h2>
