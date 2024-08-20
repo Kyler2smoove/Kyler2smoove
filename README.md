@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
-  - [Network Congifuration Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
-  - [Network Congifuration Homelab](https://github.com/Kyler2smoove/Network-Automation-Project)
+  - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
+  - [Network Automation Homelab](https://github.com/Kyler2smoove/Network-Automation-Project)
 
 
 <h2>Certifications</h2>
