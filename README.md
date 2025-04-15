@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-  - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Vunerability-management/edit/main/README.md)
+  - [Vunerability Management Program Implementation](https://github.com/Kyler2smoove/Vunerability-management/edit/main/README.md)
   - [Network Automation Project](https://github.com/Kyler2smoove/Network-Automation-Project)
 
 
 <h2>Certifications</h2>
 
-- [Google IT Support Professional Certificate](https://coursera.org/share/09c604d8c6468fffc2223dfba6edcf27)
-- [IBM Technical Support Professional Certificate](https://coursera.org/share/b9c424ea8995f79e5e12afe5bc67caf7) 
+- [ComptTIA Security+](https://www.credly.com/badges/851c95c6-0dfe-439d-a3cc-f640a72e0d3d/linked_in_profile)
+- [ComptTIA Network+](https://www.credly.com/badges/fbbd2051-42ac-4883-aa6c-128515fe0563/linked_in_profile) 
 
 <h2> 🤳 Connect with me:</h2>
 
