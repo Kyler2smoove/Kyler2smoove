@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kyler! </h1>
 
-<h2>👨‍💻 PErsonal Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
   - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
   - [Network Automation Project](https://github.com/Kyler2smoove/Network-Automation-Project)
