@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-  - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Network-Configuration-Lab.git)
+  - [Basic Network Setup Homelab](https://github.com/Kyler2smoove/Vunerability-management/edit/main/README.md)
   - [Network Automation Project](https://github.com/Kyler2smoove/Network-Automation-Project)
-  - [Network IP Addressing Configuration](https://github.com/Kyler2smoove/IP-Addressing-a-Network)
 
 
 <h2>Certifications</h2>
